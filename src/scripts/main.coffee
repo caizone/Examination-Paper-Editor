@@ -393,9 +393,9 @@ class Formbuilder
       LENGTH_UNITS: 'field_options.min_max_length_units'
 
     dict:
-      ALL_CHANGES_SAVED: 'All changes saved'
-      SAVE_FORM: 'Save form'
-      UNSAVED_CHANGES: 'You have unsaved changes. If you leave this page, you will lose those changes!'
+      ALL_CHANGES_SAVED: '已保存'
+      SAVE_FORM: '保存试题'
+      UNSAVED_CHANGES: '有未保存的试题。如果离开此页面，将丢失这些试题。'
 
   @fields: {}
   @inputFields: {}

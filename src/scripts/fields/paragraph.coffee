@@ -12,7 +12,7 @@ Formbuilder.registerField 'paragraph',
   """
 
   addButton: """
-    <span class="symbol">&#182;</span> Paragraph
+    <span class="symbol">&#182;</span> 多行填空题
   """
 
   defaultAttributes: (attrs) ->

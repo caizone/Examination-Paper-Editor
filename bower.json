@@ -1,11 +1,11 @@
 {
-  "name": "formbuilder",
-  "version": "0.2.1",
-  "homepage": "https://github.com/dobtco/formbuilder",
+  "name": "Examination-Paper-Editor",
+  "version": "0.0.1",
+  "homepage": "https://github.com/caizone/Examination-Paper-Editor",
   "authors": [
-    "ajb <ad@mbecker.cc>"
+    "caizone"
   ],
-  "description": "Graphical form builder for the web.",
+  "description": "B/S mode of examination paper editor",
   "main": [
     "dist/formbuilder.js",
     "dist/formbuilder.css"
